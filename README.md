@@ -1,9 +1,5 @@
 # ADHD-Prediction
 
-## Overview
-
-This project focuses on leveraging machine learning techniques to predict Attention-Deficit/Hyperactivity Disorder (ADHD) in children. Accurate and early diagnosis is crucial for effective intervention and support.
-
 ## Dataset
 
 The dataset includes 121 children aged 7-12, with 61 diagnosed with ADHD based on DSM-IV criteria and 60 healthy controls without psychiatric disorders, epilepsy, or high-risk behaviors.
